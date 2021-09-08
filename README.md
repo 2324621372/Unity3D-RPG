@@ -1,5 +1,5 @@
 # Unity3D-RPG
-Unity로 액션 3D RPG 포트폴리오입니다.
+Unity - 3D RPG 포트폴리오입니다.
 
 Git Repository에는 소스만 등록되어 있습니다
 
